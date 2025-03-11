@@ -222,11 +222,6 @@
                         text: 'получить ID чата последнего сообщения'  
                     },  
                     {
-                        opcode: "convertUsernameToId",
-                        blockType: Scratch.BlockType.REPORTER,
-                        text: "конвертировать имя пользователя [USERNAME] в ID",
-                    },
-                    {
                         opcode: "getLastCommand",
                         blockType: Scratch.BlockType.REPORTER,
                         text: "получить последнюю команду"
@@ -472,16 +467,6 @@
             const lastUpdate = this.updates[this.updates.length - 1];  
             return lastUpdate.message ? lastUpdate.message.chat.id.toString() : '';  
         }  
-
-        convertUsernameToId(args) {
-            if (this.updates.length === 0) return "";
-            const lastUpdate = this.updates[this.updates.length - 1];
-            return lastUpdate.message && lastUpdate.message.from
-                ? lastUpdate.message.from.username === args.USERNAME
-                    ? lastUpdate.message.from.id.toString()
-                    : ""
-                : "";
-        }
 
         getLastCommand() {
             if (this.updates.length === 0) return "";
