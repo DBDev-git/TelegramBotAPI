@@ -1,6 +1,6 @@
 // @name Telegram Bot API
 // @description Расширение которое позволяет взаимодействовать с Telegram API.
-// @thumbnail https://github.com/DBDev-git/
+// @thumbnail https://github.com/DBDev-git/TelegramBotAPI/blob/main/Thumbnail%20for%20Telegram%20Bot%20API%20extension%20by%20@AnonimKingNews.png?raw=true
 // @id TelegramBotAPI
 // @authors Telegram: @MEOW_MUR920, @FXCHK404, @DBDev_IT, thumbnail by @AnonimKingNews
 // @version 1.1
@@ -31,7 +31,7 @@
             return {  
                 id: 'TelegramBotAPI',  
                 name: 'Telegram Bot API',  
-                menuIconURI: "", // И здесь ссылка на картинку
+                menuIconURI: "https://github.com/DBDev-git/TelegramBotAPI/blob/main/Thumbnail%20for%20Telegram%20Bot%20API%20extension%20by%20@AnonimKingNews.png?raw=true",
                 color1: '#0088CC',  
                 color2: '#006699',  
                 blocks: [  
