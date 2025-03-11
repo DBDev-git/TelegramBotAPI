@@ -1,9 +1,9 @@
 // @name Telegram Bot API
 // @description Расширение которое позволяет взаимодействовать с Telegram API.
 // @thumbnail https://github.com/DBDev-git/TelegramBotAPI/blob/main/Thumbnail%20for%20Telegram%20Bot%20API%20extension%20by%20@AnonimKingNews.png?raw=true
-// @icon https://github.com/DBDev-git/TelegramBotAPI/raw/fba37c610a31e1f1d8e87cb2cb0197efa1f18f5c/Thumbnail%20for%20Telegram%20Bot%20API%20extension%20by%20%40FXCHK404.png
+// @icon https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/768px-Telegram_2019_Logo.svg.png
 // @id TelegramBotAPI
-// @authors Telegram: @MEOW_MUR920, @FXCHK404, @DBDev_IT, thumbnail by @AnonimKingNews, icon by @FXCHK404
+// @authors Telegram: @MEOW_MUR920, @FXCHK404, @DBDev_IT, thumbnail by @AnonimKingNews
 // @version 1.1
 
 (function (Scratch) {  
@@ -32,7 +32,7 @@
             return {  
                 id: 'TelegramBotAPI',  
                 name: 'Telegram Bot API',  
-                menuIconURI: "https://github.com/DBDev-git/TelegramBotAPI/raw/fba37c610a31e1f1d8e87cb2cb0197efa1f18f5c/Thumbnail%20for%20Telegram%20Bot%20API%20extension%20by%20%40FXCHK404.png",
+                menuIconURI: "https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/768px-Telegram_2019_Logo.svg.png",
                 color1: '#0088CC',  
                 color2: '#006699',  
                 blocks: [  
