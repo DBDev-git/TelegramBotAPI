@@ -3,7 +3,7 @@
 // @thumbnail https://github.com/DBDev-git/TelegramBotAPI/blob/main/Thumbnail%20for%20Telegram%20Bot%20API%20extension%20by%20@AnonimKingNews.png?raw=true
 // @icon https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/768px-Telegram_2019_Logo.svg.png
 // @id TelegramBotAPI
-// @authors Telegram: @MEOW_MUR920, @FXCHK404, @DBDev_IT, thumbnail by @AnonimKingNews
+// @authors Telegram: @DBDev_IT, @MEOW_MUR920, @FXCHK404, thumbnail by @AnonimKingNews
 // @version 1.1
 
 (function (Scratch) {  
