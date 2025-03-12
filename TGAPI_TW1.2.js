@@ -3,7 +3,7 @@
 // @thumbnail https://github.com/DBDev-git/TelegramBotAPI/blob/main/Thumbnail%20for%20Telegram%20Bot%20API%20extension%20by%20@AnonimKingNews.png?raw=true
 // @icon https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/768px-Telegram_2019_Logo.svg.png
 // @id TelegramBotAPI
-// @authors Telegram: @DBDev_IT in Scratch @damir2809, @MEOW_MUR920 in Scratch @By-ROlil-CO, @Fedor_sushko in Scratch @scratch_craft_2, @FXCHK404, thumbnail by @AnonimKingNews in Scratch @AnonimKing24
+// @authors @DBDev_IT in Scratch @damir2809, @MEOW_MUR920 in Scratch @By-ROlil-CO, @Fedor_sushko in Scratch @scratch_craft_2, @FXCHK404, thumbnail by @AnonimKingNews in Scratch @AnonimKing24
 // @version 1.2
 
 (function (Scratch) {  
