@@ -4,14 +4,12 @@
 // @icon https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Telegram_2019_Logo.svg/768px-Telegram_2019_Logo.svg.png
 // @id TelegramBotAPI
 // @authors Telegram: @DBDev_IT, @MEOW_MUR920, @FXCHK404, thumbnail by @AnonimKingNews
-// @version 1.1
+// @version 1.2
 
 (function (Scratch) {  
     'use strict';  
 
-    if (!Scratch || !Scratch.BlockType) {  
-        throw new Error('Scratch API недоступен. Расширение Telegram API невозиожно загрузить.');  
-    }  
+    if (!Scratch) throw new Error('Scratch API недоступен. Расширение Telegram API невозиожно загрузить.');  
 
     if (!Scratch.extensions.unsandboxed) console.warn("Для быстрой работы рекомендуемый режим без песочницы, всё равно запускаем в песочнице.");
 
@@ -237,9 +235,9 @@
                         text: 'есть новые сообщения?'  
                     },  
                     {  
-                        opcode: 'isLastMessageIs',  
+                        opcode: 'isMessageStartsWith',  
                         blockType: Scratch.BlockType.BOOLEAN,  
-                        text: 'последнее сообщение - текст [TEXT]?',  
+                        text: 'последнее сообщение - начинается с [TEXT]?',  
                         arguments: { TEXT: { type: Scratch.ArgumentType.STRING, defaultValue: '/start' } }  
                     },  
                     {  
@@ -486,11 +484,11 @@
             return this.updates.length > 0;  
         }  
 
-        isLastMessageIs(args) {  
-            if (this.updates.length === 0) return false;  
-            const lastUpdate = this.updates[this.updates.length - 1];  
-            const text = lastUpdate.message ? lastUpdate.message.text || '' : '';  
-            return text === args.TEXT;  
+        isMessageStartsWith(args) {  
+            if (this.updates.length === 0) return false;
+            const lastUpdate = this.updates[this.updates.length - 1];
+            const text = lastUpdate.message ? lastUpdate.message.text || "" : "";
+            return text.startsWith(args.TEXT);
         }  
 
         getLastUsername() {  
