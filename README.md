@@ -15,7 +15,7 @@
 + _И многое другое..._
 #### ==============================
 ## Как настроить?
-1. Скачайте [файл](https://github.com/DBDev-git/TelegramBotAPI/blob/main/TGAPI_TW1.2.js)
+1. Скачайте [файл](https://github.com/DBDev-git/TelegramBotAPI/blob/main/TGAPI_TW2.6.7.js)
 2. Откройте [мод Scratch'а](http://turbowarp.org/editor)
 3. Нажмите на значок двух блоков с символов "+" (в правом нижнем углу)
 4. Найдите и нажмите расширение "Пользовательское дополнение"
