@@ -27,6 +27,10 @@
 #### ==============================
 [Let's create!|DBDev](http://t.me/DBDev_IT_channel) x https://t.me/MEOW_MUR920, https://t.me/Fedor_sushko, https://t.me/FXCHK404, https://t.me/AnonimKingNews
 
+## Проекты-примеры
+- [Первый обработчик команды `/start`](https://github.com/DBDev-git/TelegramBotAPI/raw/refs/heads/main/first%20handler%20-%20TGB%20API%20v2.5.7.sb3)
+- [Сохранение новых обработанных ботом сообщений](https://github.com/DBDev-git/TelegramBotAPI/raw/refs/heads/main/saving%20all%20new%20messages%20to%20list%20-%20TGB%20API%20v2.5.7.sb3)
+
 ## Команды
 
 ### `инициализировать бота с токеном [TOKEN]`
