@@ -5,7 +5,7 @@
 
 ***Вы наверно скажете невозможно, но я скажу что возможно***
 ##### ==============================
-### [@damir2809](https://scratch.mit.edu/users/damir2809), [@scratch_craft_2](https://scratch.mit.edu/users/scratch_craft_2), [By-ROlil-CO](https://scratch.mit.edu/users/By-ROlil-CO), [@ttt999](https://scratch.mit.edu/users/ttt999), [@AnonimKing24](https://scratch.mit.edu/users/AnonimKing24) и [другие]() разработали расширение, которое позволяет взаимодействовать с Telegram API
+### [@damir2809](https://scratch.mit.edu/users/damir2809), [@scratch_craft_2](https://scratch.mit.edu/users/scratch_craft_2), [@By-ROlil-CO](https://scratch.mit.edu/users/By-ROlil-CO), [@ttt999](https://scratch.mit.edu/users/ttt999), [@AnonimKing24](https://scratch.mit.edu/users/AnonimKing24) и [другие]() разработали расширение, которое позволяет взаимодействовать с Telegram API
 ##### ==============================
 ### Это расширение позволяет:
 1. ***Отправлять сообщения в чат***
