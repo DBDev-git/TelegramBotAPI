@@ -5,7 +5,7 @@
 
 ***Вы наверно скажете невозможно, но я скажу что возможно***
 ##### ==============================
-### @DBDev_IT, @MEOW_MUR920, @Fedor_sushko, @FXCHK404 разработали расширение, которое позволяет взаимодействовать с Telegram API (обложка от @AnonimKingNews)
+### @DBDev_IT, @MEOW_MUR920, @Fedor_sushko, @FXCHK404, @AnonimKingNews и другие разработали расширение, которое позволяет взаимодействовать с Telegram API
 ##### ==============================
 ### Это расширение позволяет:
 1. ***Отправлять сообщения в чат***
@@ -26,7 +26,7 @@
 8. Нажмите на кнопку "Загрузить" (Load)
 9. Расширение должно появиться в левой панели категорий
 #### ==============================
-[Let's create!|DBDev](http://t.me/DBDev_IT_channel) x https://t.me/MEOW_MUR920, https://t.me/Fedor_sushko, https://t.me/FXCHK404, https://t.me/AnonimKingNews
+[Let's create!|DBDev](http://t.me/DBDev_IT_channel) x https://t.me/MEOW_MUR920, https://t.me/Fedor_sushko, https://t.me/FXCHK404, https://t.me/AnonimKingNews [...]()
 
 ## Проекты-примеры
 - [Первый обработчик команды `/start`](https://github.com/DBDev-git/TelegramBotAPI/raw/refs/heads/main/first%20handler%20-%20TGB%20API%20v2.5.7.sb3)
