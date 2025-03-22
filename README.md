@@ -1,7 +1,7 @@
 ## Как создать Telegram-бота в Scratch?
 <img src="https://github.com/DBDev-git/TelegramBotAPI/blob/fba37c610a31e1f1d8e87cb2cb0197efa1f18f5c/Thumbnail%20for%20Telegram%20Bot%20API%20extension%20by%20%40AnonimKingNews.png" alt="AnonimKingNews" width="300"/>
+<img src="https://github.com/DBDev-git/TelegramBotAPI/blob/main/Thumbnail%20for%20Telegram%20Bot%20API%20extension%20by%20@Fedor_sushko.png?raw=true" alt="Fedor_sushko" width="500"/>
 <img src="https://github.com/DBDev-git/TelegramBotAPI/blob/fba37c610a31e1f1d8e87cb2cb0197efa1f18f5c/Thumbnail%20for%20Telegram%20Bot%20API%20extension%20by%20%40FXCHK404.png" alt="FXCHK404" width="300"/>
-<img src="https://github.com/DBDev-git/TelegramBotAPI/blob/main/Thumbnail%20for%20Telegram%20Bot%20API%20extension%20by%20@Fedor_sushko.png?raw=true" alt="Fedor_sushko" width="300"/>
 
 ***Вы наверно скажете невозможно, но я скажу что возможно***
 ##### ==============================
